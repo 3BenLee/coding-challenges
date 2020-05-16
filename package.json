@@ -1,0 +1,14 @@
+{
+  "name": "coding-challenges",
+  "version": "1.0.0",
+  "description": "Repo to store solved coding challenges and other algorithm and data structure related files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Harned",
+  "license": "MIT",
+  "dependencies": {
+    "@frootloops/create-algo": "^1.0.5"
+  }
+}
