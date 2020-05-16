@@ -9,6 +9,6 @@
   "author": "Ben Harned",
   "license": "MIT",
   "dependencies": {
-    "@frootloops/create-algo": "^1.0.5"
+    "@frootloops/create-algo": "^1.0.6"
   }
 }
