@@ -1,0 +1,17 @@
+{
+  "name": "javascript-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node index.js"
+
+  },
+  "keywords": [],
+  "author": "Ben Harned",
+  "license": "MIT",
+  "dependencies": {
+
+    "esm": "3.2.25"
+  }
+}
